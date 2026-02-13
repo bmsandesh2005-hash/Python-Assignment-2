@@ -28,5 +28,3 @@ It calculates the sum of all integers in this range and displays the final resul
 
 ---
 
-py
-   python task2.py
